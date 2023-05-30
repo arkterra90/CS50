@@ -1,0 +1,6 @@
+Get desired height from user between 1 and 8
+First line will be user input from 1 to user input to create rows of hashs
+Use for loops
+    Lines will print user input minus one for spaces
+    Lines will print user hashs from 1 to user input
+    Send to new line

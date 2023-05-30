@@ -1,0 +1,44 @@
+sort1 sorted500000
+real    0m0.678s
+user    0m0.024s
+sys     0m0.172s
+
+sort2 sorted50000
+real    0m0.966s
+user    0m0.050s
+sys     0m0.145s
+
+sort3 sorted50000
+real    0m3.440s
+user    0m2.787s
+sys     0m0.215s
+
+sort1 random500000
+eal    0m8.392s
+user    0m7.475s
+sys     0m0.172s
+
+sort2 random500000
+real    0m0.748s
+user    0m0.051s
+sys     0m0.151s
+
+sort3 random500000
+real    0m4.290s
+user    0m3.367s
+sys     0m0.189s
+
+sort1 rev50000
+real    0m6.580s
+user    0m5.568s
+sys     0m0.210s
+
+sort2 rev50000
+real    0m0.838s
+user    0m0.046s
+sys     0m0.164s
+
+sort3 rev50000
+real    0m4.065s
+user    0m3.074s
+sys     0m0.225s

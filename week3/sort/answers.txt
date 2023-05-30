@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It ran a sorted file faster than sort3 becasue it's lower bound is O(1) for a presorted file.
+
+sort2 uses: Merge Sort
+
+How do you know?: It ran fastest on each sort file because it's best case because its upper bound is O(log n).
+
+sort3 uses: selection sort
+
+How do you know?: It ran a pre-sorted or reveresed .txt file in the same amount of time because it's upper and lower bound is O(n).
