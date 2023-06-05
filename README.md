@@ -7,3 +7,5 @@ This is CS50x through edX, Harvard University's introduction to the intellectual
 Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. The Problem Sets are inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. It also teaches students how to develop and present a final programming project.
 
 Wherever possible, I had attempted the more comfortable versions of the Labs & Problem Sets as well as attempted all the Weekly Practice Problems. This repository will be updated constantly as I continue to complete this course. The Final Project, named (Fill In), has been added to a separate repository.
+
+![CS50x](https://github.com/arkterra90/CS50/assets/100542455/b6e9d589-1910-4706-b8b0-88f99d4a2ef6)
