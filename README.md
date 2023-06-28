@@ -1,5 +1,5 @@
 # CS50
-#### A repository created to house my work in Harvards CS50: Introduction To Computer Science
+#### A repository created to house my work in [Harvards CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x): Introduction To Computer Science
 
 
 This is CS50x through edX, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently.The Problem Sets are inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. It also teaches students how to develop and present a final programming project.
